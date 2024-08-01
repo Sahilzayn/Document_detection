@@ -12,22 +12,6 @@ License
 Introduction
 The goal of this project is to classify different types of documents using pre-trained deep learning models. The models are capable of identifying Bank Statements, PAN Cards, Passport Cards, and Aadhar Cards from given images.
 
-# Project Directory Structure
-
-├── data
-│ ├── bank_statement_model.h5
-│ ├── pan_card_model.h5
-│ ├── passport_card_model.h5
-│ ├── aadhar_card_model.h5
-│ └── sample_images
-│ ├── bank_statement.jpg
-│ ├── pan_card.jpg
-│ ├── passport_card.jpg
-│ └── aadhar_card.jpg
-├── notebooks
-│ └── Detection_model.ipynb
-├── README.md
-└── requirements.txt
 
 # Project Title
 
